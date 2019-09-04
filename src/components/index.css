@@ -1,0 +1,9 @@
+.imgHeader{
+    width: 100%;
+    height: 400px;
+    overflow: hidden;
+}
+
+.imgHeader img{
+    width: 100%;
+}

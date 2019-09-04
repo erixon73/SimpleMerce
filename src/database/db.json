@@ -1,0 +1,126 @@
+{
+  "users": [
+    {
+      "username": "aaa",
+      "email": "aaa",
+      "password": "aaaaa",
+      "id": 1
+    },
+    {
+      "username": "aaa",
+      "email": "aaa",
+      "password": "aaaaa",
+      "id": 2
+    },
+    {
+      "username": "aku",
+      "email": "aku@kamu.com",
+      "password": "akudankamu",
+      "id": 3
+    },
+    {
+      "username": "aku",
+      "email": "aku@kamu.com",
+      "password": "akudankamu",
+      "id": 4
+    },
+    {
+      "username": "akua",
+      "email": "aku@kamu.com",
+      "password": "akudankamu",
+      "id": 5
+    },
+    {
+      "username": "aku",
+      "email": "aku@kamu.com",
+      "password": "akudankamu",
+      "id": 6
+    },
+    {
+      "username": "kamu",
+      "email": "kamu@aku.com",
+      "password": "akudankamu",
+      "id": 7
+    },
+    {
+      "username": "aku",
+      "email": "aku@kamu.com",
+      "password": "akudankamu",
+      "id": 8
+    },
+    {
+      "username": "aku",
+      "email": "aku@kamu.com",
+      "password": "akudankamu",
+      "id": 9
+    },
+    {
+      "username": "saya",
+      "email": "saya@anda.com",
+      "password": "sayadananda",
+      "id": 10
+    },
+    {
+      "username": "putra",
+      "email": "putra@gmail.com",
+      "password": "putrasinurat",
+      "id": 11
+    },
+    {
+      "username": "putra",
+      "email": "putra@gmail.com",
+      "password": "putrasinurat",
+      "id": 12
+    },
+    {
+      "username": "admin",
+      "email": "admin@admin.com",
+      "password": "admin",
+      "id": 13
+    }
+  ],
+  "products": [
+    {
+      "name": "AVE Chrome Long Sleeve T-Shirt",
+      "description": "For Anthony Van Engelen, \"Good enough isn't good enough\" - he's barely satisfied with great. So you can imagine how demanding the design process was for his new signature collection. Featuring left chest, back, and sleeve graphics, the AVE Chrome LS T-Shirt is made with heavier weight 100% carded ringspun cotton, and if it's good enough for Anthony, you're going to think it's pretty great. Fit type: classic. Model is 6 feet tall and wearing a size Medium. ",
+      "price": "399.999",
+      "picture": "https://images.vans.com/is/image/Vans/54CWHT-HERO?$496x496$",
+      "id": 1
+    },
+    {
+      "name": "AVE Chrome T-Shirt",
+      "description": "For Anthony Van Engelen, \"Good enough isn't good enough\" - he's barely satisfied with great. So you can imagine how demanding the design process was for his new signature collection. Featuring left chest and back graphics, the AVE Chrome SS T-Shirt is made with heavier weight 100% carded ringspun cotton, and if it's good enough for Anthony, you're going to think it's pretty great. Fit type: classic. Model is 6 feet tall and wearing a size Medium. ",
+      "price": "342.000",
+      "picture": "https://images.vans.com/is/image/Vans/54NBLK-HERO?$583x583$",
+      "id": 2
+    },
+    {
+      "name": "Vans x Baker Long Sleeve T-Shirt",
+      "description": "This Fall, weve teamed up with the skate brand that has been giving skateboarding a bad name since 2000 to deliver a unique collection of footwear and apparel. Celebrating both brands roots in skateboarding, the Vans x Baker LS T-Shirt is a heavier weight 100% carded ringspun cotton long sleeve t-shirt with chest and back graphics. Fit type: classic. Model is 6 feet tall and wearing a size Medium. ",
+      "price": "427.000",
+      "picture": "https://images.vans.com/is/image/Vans/55IBLK-HERO?$583x583$",
+      "id": 3
+    },
+    {
+      "name": "Checkerboard Slip-On  Black/Off White",
+      "description": "The Classic Slip-On has a low profile, slip-on canvas upper with all-over checker print, elastic side accents, Vans flag label and Vans original Waffle Outsole. ",
+      "price": "712.000",
+      "picture": "https://images.vans.com/is/image/Vans/EYEBWW-HERO?$583x583$",
+      "id": 4
+    },
+    {
+      "name": "Old Skool Pro Black/Off White",
+      "description": "The Old Skool Pro, a Vans classic upgraded for enhanced performance, features suede, canvas, and leather uppers, single-wrap foxing tape, UltraCush HD sockliners to keep the foot close to the board while providing the highest level of impact cushioning, and Vans original waffle outsoles for superior grip and control. The Old Skool Pro also includes Duracap reinforcement rubber underlays in high wear areas for unrivaled durability.",
+      "price": "925.000",
+      "picture": "https://images.vans.com/is/image/Vans/ZD4Y28-HERO?$583x583$",
+      "id": 5
+    },
+    {
+      "name": "Vanosaur Sk8-Hi Pro BLACK",
+      "description": "The Vanosaur Sk8-Hi Pro, a Vans classic upgraded for enhanced performance, features printed canvas and suede uppers, single-wrap foxing tape, UltraCush HD sockliners to keep the foot close to the board while providing the highest level of impact cushioning, and Vans original waffle outsoles made of a rubber that offers grip and support. The Sk8-Hi Pro also includes DURACAP reinforcement rubber underlays in high wear areas for unrivaled durability, and Pro Vulc Lite construction to deliver the best in boardfeel, flex, and traction. ",
+      "price": "1.000.000",
+      "picture": "https://images.vans.com/is/image/Vans/5JDRW7-HERO?$583x583$",
+      "id": 6
+    }
+  ]
+}
