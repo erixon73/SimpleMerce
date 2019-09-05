@@ -60,4 +60,3 @@ class App extends Component {
 }
 
 export default connect(null,{keepLogin})(App)
-

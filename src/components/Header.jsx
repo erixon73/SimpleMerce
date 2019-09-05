@@ -38,8 +38,8 @@ class Header extends Component {
         return (
           
           <div>
-            <Navbar color="dark" light expand="md">
-              <Link className="navbar-brand" to="/"><img src={{}} alt=""/></Link>
+            <Navbar color="danger" light expand="md">
+              <Link className="navbar-brand" to="/"><img width="150" src="https://181ge72mb8rnbx7z1k119thi-wpengine.netdna-ssl.com/wp-content/uploads/2018/03/vans-logo-2.png" alt=""/></Link>
               <NavbarToggler onClick={this.toggle} />
               <Collapse isOpen={this.state.isOpen} navbar>
                 <Nav className="ml-auto" navbar>
@@ -67,13 +67,13 @@ class Header extends Component {
         // Jika sudah ada yang login
         return (
           <div>
-            <Navbar color="light" light expand="md">
-              <Link className="navbar-brand" to="/">Vans</Link>
+            <Navbar color="danger" light expand="md">
+              <Link className="navbar-brand" to="/"><img width="150" src="https://181ge72mb8rnbx7z1k119thi-wpengine.netdna-ssl.com/wp-content/uploads/2018/03/vans-logo-2.png" alt=""/></Link>
               <NavbarToggler onClick={this.toggle} />
               <Collapse isOpen={this.state.isOpen} navbar>
                 <Nav className="ml-auto" navbar>
                   <NavItem>
-                    <NavLink className="nav-link" to="/manageproducts">All Product</NavLink>
+                    <NavLink className="nav-link" to="/">All Product</NavLink>
                   </NavItem>
                   <UncontrolledDropdown nav inNavbar>
                   <DropdownToggle nav caret>
@@ -81,7 +81,7 @@ class Header extends Component {
                   </DropdownToggle>
                   <DropdownMenu right>
                     <DropdownItem>
-                      Option 2
+                    <NavLink className="nav-link" to="/manageproducts">Manage Products</NavLink>
                     </DropdownItem>
                     <DropdownItem>
                       Option 2
